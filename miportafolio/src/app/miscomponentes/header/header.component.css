@@ -1,7 +1,7 @@
 div{
-    background-color: rgb(239, 28, 28);
+    background-color: black;
 }
 app-redessociales{
     float: right;
-    margin-top: 25px;
+    margin: 25px;
 }
