@@ -8,6 +8,8 @@ import { LogosComponent } from './miscomponentes/logos/logos.component';
 import { RedessocialesComponent } from './miscomponentes/redessociales/redessociales.component';
 import { BanerComponent } from './miscomponentes/baner/baner.component';
 import { AcercademiComponent } from './miscomponentes/acercademi/acercademi.component';
+import { ExperienciaComponent } from './miscomponentes/experiencia/experiencia.component';
+import { EducacionComponent } from './miscomponentes/educacion/educacion.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { AcercademiComponent } from './miscomponentes/acercademi/acercademi.comp
     LogosComponent,
     RedessocialesComponent,
     BanerComponent,
-    AcercademiComponent
+    AcercademiComponent,
+    ExperienciaComponent,
+    EducacionComponent
   ],
   imports: [
     BrowserModule,
