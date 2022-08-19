@@ -8,7 +8,7 @@ div{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 33%;
     text-align: center;
 }
 /*etiqueta de foto de perfil*/
@@ -30,16 +30,6 @@ div{
         box-shadow: 3px 3px 3px grey;
         border-radius: 85%;
         left: 33%;
-        top:600px;
-     }
-}
-@media (max-width:400px ){
-    #fotoper{
-        position: absolute;
-        width:30%;
-        box-shadow: 3px 3px 3px grey;
-        border-radius: 85%;
-        left: 33%;
-        top:750px;
+        top: 950px;
      }
 }
