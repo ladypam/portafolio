@@ -14,6 +14,8 @@ import { HysComponent } from './miscomponentes/hys/hys.component';
 import { ProyectosComponent } from './miscomponentes/proyectos/proyectos.component';
 import { FooterComponent } from './miscomponentes/footer/footer.component';
 import {  HttpClientModule } from '@angular/common/http';
+import { HomeComponent } from './miscomponentes/home/home.component';
+import { LoginComponent } from './miscomponentes/login/login.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import {  HttpClientModule } from '@angular/common/http';
     EducacionComponent,
     HysComponent,
     ProyectosComponent,
-    FooterComponent
+    FooterComponent,
+    HomeComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
